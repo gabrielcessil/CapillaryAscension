@@ -5,6 +5,8 @@ This project explores **capillary ascension** in porous media, which describes h
 
 We compare different mathematical models to describe capillary dynamics, focusing on the **Lucas-Washburn equation** and two alternative methods that aim to capture both the **dynamic rise and steady-state height** of the liquid column.
 
+![Figure Title](CapillaryAsc_example.png)
+
 ---
 
 ## **Mathematical Model**
