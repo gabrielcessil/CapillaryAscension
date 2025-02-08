@@ -18,13 +18,13 @@ h\frac{d^{2}h}{dt^{2}} + \left(\frac{dh}{dt}\right)^{2} + \frac{8\mu h}{\rho R^2
 $$
 
 where:
-- \( h \) = liquid height
-- \( \mu \) = dynamic viscosity
-- \( \sigma \) = surface tension
-- \( \theta \) = contact angle
-- \( \rho \) = density of the liquid
-- \( R \) = capillary radius
-- \( g \) = gravitational acceleration
+- $$\( h \)$$ = liquid height
+- $$\( \mu \)$$ = dynamic viscosity
+- $$\( \sigma \)$$ = surface tension
+- $$\( \theta \)$$ = contact angle
+- $$\( \rho \)$$ = density of the liquid
+- $$\( R \)$$ = capillary radius
+- $$\( g \)$$ = gravitational acceleration
 
 ### **Equilibrium Condition**
 At steady state, the liquid reaches its maximum height \( h_{eq} \), where capillary forces balance gravity:
