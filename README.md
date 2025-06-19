@@ -39,7 +39,7 @@ $$
 The following methods are used to analyze capillary ascent:
 
 ### **1. Method 1 (Additive Approximation)**
-This method replaces the term \( \frac{dh}{dt} \) with an **average velocity** approximation:
+This method replaces the term $$\( \frac{dh}{dt} \)$$ with an **average velocity** approximation:
 
 $$
 \frac{dh}{dt} = \frac{\frac{2\sigma\cos\theta - g\rho R}{\rho R}}{\frac{h'}{t}+\frac{8\mu h}{\rho R^2}}
