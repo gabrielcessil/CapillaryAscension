@@ -3,7 +3,7 @@
 ## Overview
 This project explores **capillary ascension** in porous media, which describes how liquid moves through small interconnected pores due to **surface tension** and **adhesive forces**. This phenomenon is essential in various natural and industrial applications, including **soil moisture retention, oil recovery, and ink absorption**.
 
-We compare different mathematical models to describe capillary dynamics, focusing on the **Lucas-Washburn equation** and two alternative methods that aim to capture both the **dynamic rise and steady-state height** of the liquid column.
+This project proposes two differential equations to approximate the capillary ascension of a liquid column, aiming to obtain a easily integrable form in numerical environment such as python coding. The obtained equations help to ellucidate the main characteristics of the phenomena, keeping transitory (dynamic rise) and equilibrium/steady state. These two stages are no present in a single model such as the Lucas-Washburn's. 
 
 ![Figure Title](CapillaryAsc_example.png)
 
