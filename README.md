@@ -42,13 +42,13 @@ The following methods are used to analyze capillary ascent:
 This method replaces the term $$\( \frac{dh}{dt} \)$$ with an **average velocity** approximation:
 
 $$
-\frac{dh}{dt} = \frac{\frac{2\sigma\cos\theta - gh\rho R}{\rho R}}{\frac{h'}{t}+\frac{8\mu h}{\rho R^2}}
+\frac{dh}{dt} = \frac{\frac{2\sigma\cos\theta - gh\rho R}{\rho R}}{\frac{h'^2}{t^2}+\frac{8\mu h}{\rho R^2}}
 $$
 
 which simplifies to:
 
 $$
-\frac{dh}{dt} = \frac{(2\sigma\cos\theta - gh\rho R)Rt}{h' \rho R^{2} + 8 \mu h t}
+\frac{dh}{dt} = \frac{(2\sigma\cos\theta - gh\rho R)Rt^2}{h'^2 \rho R^{2} + 8 \mu h t^2}
 $$
 
 ---
