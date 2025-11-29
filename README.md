@@ -48,7 +48,7 @@ $$
 which simplifies to:
 
 $$
-\frac{dh}{dt} = \frac{(2\sigma\cos\theta - g\rho R)Rt}{h' \rho R^{2} + 8 \mu h t}
+\frac{dh}{dt} = \frac{(2\sigma\cos\theta - gh\rho R)Rt}{h' \rho R^{2} + 8 \mu h t}
 $$
 
 ---
