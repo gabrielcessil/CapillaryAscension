@@ -67,10 +67,6 @@ $$
 $$
 
 ---
-## Key Findings: 
-
-#### These approximations do not have an analytical solution to determine h(t). However, they illustrate the effect of each parameter in the capillary ascention. For example, the radious (R) appears diminuing the magnitude of speed as intuitive conclusions. Different from the observed in Lucas Washburn, where the radious increases the velocity, as seen below. Also, the achieve relations keep inertial effects neglected in other models likes Lucas-Washburn
----
 
 ### **3. Lucas-Washburn Equation**
 The classical **Lucas-Washburn** model assumes the capillary rise is controlled by the **balance between capillary pressure and viscous resistance**:
@@ -86,6 +82,11 @@ h^2 = \frac{\sigma R \cos\theta}{2 \mu} t
 $$
 
 This model predicts that **height increases proportionally to the square root of time** but does not capture the equilibrium height accurately.
+
+---
+## Key Findings: 
+
+#### These approximations do not have an analytical solution to determine h(t). However, they illustrate the effect of each parameter in the capillary ascention. For example, the radious (R) appears diminuing the magnitude of speed as intuitive conclusions. Different from the observed in Lucas-Washburn, where the radious increases the velocity. Also, the achieve relations keep inertial effects neglected in other models likes Lucas-Washburn.
 
 ---
 
