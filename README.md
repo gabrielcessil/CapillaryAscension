@@ -66,7 +66,10 @@ $$
 \frac{dh}{dt} = \frac{(2\sigma\cos\theta-gh \rho R) R t - 8 \mu h h'}{p R^{2} h'}
 $$
 
-## Key Findings: These approximations do not have an analytical solution to determine h(t). However, they illustrate the effect of each parameter in the capillary ascention. For example, the radious (R) appears diminuing the magnitude of speed as intuitive conclusions. Different from the observed in Lucas Washburn, where the radious increases the velocity, as seen below.
+---
+## Key Findings: 
+
+#### These approximations do not have an analytical solution to determine h(t). However, they illustrate the effect of each parameter in the capillary ascention. For example, the radious (R) appears diminuing the magnitude of speed as intuitive conclusions. Different from the observed in Lucas Washburn, where the radious increases the velocity, as seen below. Also, the achieve relations keep inertial effects neglected in other models likes Lucas-Washburn
 ---
 
 ### **3. Lucas-Washburn Equation**
